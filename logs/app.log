@@ -1,0 +1,79 @@
+2025-07-23 17:16:30,257 [INFO] 📆 Fetching current iteration from https://dev.azure.com/phenomenex/Phenomenex%202.0/Web%202.0/_apis/work/teamsettings/iterations?$timeframe=current&api-version=6.0
+2025-07-23 17:16:30,711 [INFO] ✅ Current iteration path: Phenomenex 2.0\2025 - Web\2025 - Sprint 15
+2025-07-23 17:16:31,143 [INFO] ✅ WIQL returned 206 work item IDs.
+2025-07-23 17:16:31,143 [INFO] 📥 Fetching work items 1-50 of 206
+2025-07-23 17:16:31,589 [INFO] ✅ Successfully retrieved 50 items from batch
+2025-07-23 17:16:31,590 [INFO] 📥 Fetching work items 51-100 of 206
+2025-07-23 17:16:32,049 [INFO] ✅ Successfully retrieved 50 items from batch
+2025-07-23 17:16:32,049 [INFO] 📥 Fetching work items 101-150 of 206
+2025-07-23 17:16:32,494 [INFO] ✅ Successfully retrieved 50 items from batch
+2025-07-23 17:16:32,494 [INFO] 📥 Fetching work items 151-200 of 206
+2025-07-23 17:16:32,967 [INFO] ✅ Successfully retrieved 50 items from batch
+2025-07-23 17:16:32,983 [INFO] 📥 Fetching work items 201-206 of 206
+2025-07-23 17:16:33,405 [INFO] ✅ Successfully retrieved 6 items from batch
+2025-07-23 17:16:33,405 [INFO] ✅ Final item count: 206
+2025-07-23 17:16:33,898 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 404 Not Found"
+2025-07-23 17:24:13,717 [INFO] 📆 Fetching current iteration from https://dev.azure.com/phenomenex/Phenomenex%202.0/Web%202.0/_apis/work/teamsettings/iterations?$timeframe=current&api-version=6.0
+2025-07-23 17:24:14,493 [INFO] ✅ Current iteration path: Phenomenex 2.0\2025 - Web\2025 - Sprint 15
+2025-07-23 17:24:14,910 [INFO] ✅ WIQL returned 206 work item IDs.
+2025-07-23 17:24:14,910 [INFO] 📥 Fetching work items 1-50 of 206
+2025-07-23 17:24:15,402 [INFO] ✅ Successfully retrieved 50 items from batch
+2025-07-23 17:24:15,402 [INFO] 📥 Fetching work items 51-100 of 206
+2025-07-23 17:24:15,862 [INFO] ✅ Successfully retrieved 50 items from batch
+2025-07-23 17:24:15,862 [INFO] 📥 Fetching work items 101-150 of 206
+2025-07-23 17:24:16,294 [INFO] ✅ Successfully retrieved 50 items from batch
+2025-07-23 17:24:16,295 [INFO] 📥 Fetching work items 151-200 of 206
+2025-07-23 17:24:16,731 [INFO] ✅ Successfully retrieved 50 items from batch
+2025-07-23 17:24:16,731 [INFO] 📥 Fetching work items 201-206 of 206
+2025-07-23 17:24:17,156 [INFO] ✅ Successfully retrieved 6 items from batch
+2025-07-23 17:24:17,156 [INFO] ✅ Final item count: 206
+2025-07-23 17:24:46,053 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-07-23 17:26:05,656 [INFO] 📆 Fetching current iteration from https://dev.azure.com/phenomenex/Phenomenex%202.0/Web%202.0/_apis/work/teamsettings/iterations?$timeframe=current&api-version=6.0
+2025-07-23 17:26:06,108 [INFO] ✅ Current iteration path: Phenomenex 2.0\2025 - Web\2025 - Sprint 15
+2025-07-23 17:26:06,524 [INFO] ✅ WIQL returned 206 work item IDs.
+2025-07-23 17:26:06,524 [INFO] 📥 Fetching work items 1-50 of 206
+2025-07-23 17:26:06,982 [INFO] ✅ Successfully retrieved 50 items from batch
+2025-07-23 17:26:06,983 [INFO] 📥 Fetching work items 51-100 of 206
+2025-07-23 17:26:07,420 [INFO] ✅ Successfully retrieved 50 items from batch
+2025-07-23 17:26:07,420 [INFO] 📥 Fetching work items 101-150 of 206
+2025-07-23 17:26:07,905 [INFO] ✅ Successfully retrieved 50 items from batch
+2025-07-23 17:26:07,905 [INFO] 📥 Fetching work items 151-200 of 206
+2025-07-23 17:26:08,425 [INFO] ✅ Successfully retrieved 50 items from batch
+2025-07-23 17:26:08,427 [INFO] 📥 Fetching work items 201-206 of 206
+2025-07-23 17:26:08,840 [INFO] ✅ Successfully retrieved 6 items from batch
+2025-07-23 17:26:08,840 [INFO] ✅ Final item count: 206
+2025-07-23 17:26:08,840 [INFO] Processing 206 work items...
+2025-07-23 17:26:26,802 [INFO] HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-07-23 17:51:34,784 [INFO] 📆 Fetching current iteration from https://dev.azure.com/phenomenex/Phenomenex%202.0/Web%202.0/_apis/work/teamsettings/iterations?$timeframe=current&api-version=6.0
+2025-07-23 17:51:36,008 [INFO] ✅ Current iteration path: Phenomenex 2.0\2025 - Web\2025 - Sprint 15
+2025-07-23 17:51:36,008 [INFO] 📊 Running WIQL: https://dev.azure.com/phenomenex/Phenomenex%202.0/_apis/wit/wiql?api-version=6.0
+2025-07-23 17:51:36,445 [INFO] ✅ WIQL returned 206 IDs.
+2025-07-23 17:51:36,445 [INFO] 📥 Fetching items 1-50 of 206
+2025-07-23 17:51:36,901 [WARNING] ⚠️ Batch 1-50 failed: 400 Client Error: Bad Request for url: https://dev.azure.com/phenomenex/_apis/wit/workitemsbatch?api-version=6.0
+2025-07-23 17:51:36,901 [INFO] 📥 Fetching items 51-100 of 206
+2025-07-23 17:51:37,329 [WARNING] ⚠️ Batch 51-100 failed: 400 Client Error: Bad Request for url: https://dev.azure.com/phenomenex/_apis/wit/workitemsbatch?api-version=6.0
+2025-07-23 17:51:37,329 [INFO] 📥 Fetching items 101-150 of 206
+2025-07-23 17:51:37,796 [WARNING] ⚠️ Batch 101-150 failed: 400 Client Error: Bad Request for url: https://dev.azure.com/phenomenex/_apis/wit/workitemsbatch?api-version=6.0
+2025-07-23 17:51:37,796 [INFO] 📥 Fetching items 151-200 of 206
+2025-07-23 17:51:38,312 [WARNING] ⚠️ Batch 151-200 failed: 400 Client Error: Bad Request for url: https://dev.azure.com/phenomenex/_apis/wit/workitemsbatch?api-version=6.0
+2025-07-23 17:51:38,312 [INFO] 📥 Fetching items 201-206 of 206
+2025-07-23 17:51:38,958 [WARNING] ⚠️ Batch 201-206 failed: 400 Client Error: Bad Request for url: https://dev.azure.com/phenomenex/_apis/wit/workitemsbatch?api-version=6.0
+2025-07-23 17:51:38,959 [INFO] ✅ Final item count: 0
+2025-07-23 17:53:18,126 [INFO] 📆 Fetching current iteration from https://dev.azure.com/phenomenex/Phenomenex%202.0/Web%202.0/_apis/work/teamsettings/iterations?$timeframe=current&api-version=6.0
+2025-07-23 17:53:18,858 [INFO] ✅ Current iteration path: Phenomenex 2.0\2025 - Web\2025 - Sprint 15
+2025-07-23 17:53:18,858 [ERROR] Dashboard load error
+Traceback (most recent call last):
+  File "C:\Users\saravananc\OneDrive - Danaher\Desktop\learning\azure_sprint_dashboard\ui\dashboard.py", line 32, in render_dashboard
+    raw = get_sprint_work_items()
+          ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\saravananc\OneDrive - Danaher\Desktop\learning\azure_sprint_dashboard\data\fetch_data.py", line 70, in get_sprint_work_items
+    for i in range(0, len(ids), chunk_size):
+                          ^^^
+NameError: name 'ids' is not defined. Did you mean: 'id'?
+2025-07-23 17:57:26,857 [INFO] 📆 Fetching current iteration from https://dev.azure.com/phenomenex/Phenomenex%202.0/Web%202.0/_apis/work/teamsettings/iterations?$timeframe=current&api-version=6.0
+2025-07-23 17:57:27,655 [INFO] ✅ Current iteration path: Phenomenex 2.0\2025 - Web\2025 - Sprint 15
+2025-07-23 17:57:28,527 [WARNING] Batch 1-50 failed: 400 Client Error: Bad Request for url: https://dev.azure.com/phenomenex/Phenomenex%202.0/_apis/wit/workitemsbatch?api-version=6.0
+2025-07-23 17:57:28,937 [WARNING] Batch 51-100 failed: 400 Client Error: Bad Request for url: https://dev.azure.com/phenomenex/Phenomenex%202.0/_apis/wit/workitemsbatch?api-version=6.0
+2025-07-23 17:57:29,504 [WARNING] Batch 101-150 failed: 400 Client Error: Bad Request for url: https://dev.azure.com/phenomenex/Phenomenex%202.0/_apis/wit/workitemsbatch?api-version=6.0
+2025-07-23 17:57:29,921 [WARNING] Batch 151-200 failed: 400 Client Error: Bad Request for url: https://dev.azure.com/phenomenex/Phenomenex%202.0/_apis/wit/workitemsbatch?api-version=6.0
+2025-07-23 17:57:30,413 [WARNING] Batch 201-206 failed: 400 Client Error: Bad Request for url: https://dev.azure.com/phenomenex/Phenomenex%202.0/_apis/wit/workitemsbatch?api-version=6.0
